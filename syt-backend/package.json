@@ -11,7 +11,11 @@
   "author": "ZZB",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.6",
     "mongoose": "^5.9.10"
   }

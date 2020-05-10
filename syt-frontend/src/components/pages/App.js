@@ -1,8 +1,11 @@
 import React from 'react';
 import {Container, Segment, Table} from 'semantic-ui-react';
+import Login from '../widgets/Login';
 
 function App() {
   return (
+    <div>
+    <Login></Login>
     <Container>
       <Segment.Group>
       <Segment>
@@ -25,6 +28,7 @@ function App() {
       </Segment>
       </Segment.Group> 
     </Container>
+    </div>
   );
 }
 

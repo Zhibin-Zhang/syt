@@ -1,3 +1,4 @@
 **/.vscode/**
 **/node_modules/**
 syt-backend/config.json
+syt-backend/credentials.json
